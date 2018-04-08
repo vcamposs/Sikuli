@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.sikuli:sikuli-script:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sikuli/sikuli-script/unknown/sikuli-script-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sikuli/sikuli-script/unknown/sikuli-script-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sikuli/sikuli-script/unknown/sikuli-script-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
